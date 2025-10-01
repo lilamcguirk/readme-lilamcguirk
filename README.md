@@ -1,5 +1,6 @@
 Hello, I'm Lila Mcguirk
 
+##
 I’m a University of Vermont Computer Science graduate with a strong front-end programming background. I specialize in building scalable, responsive web applications with modern frameworks and tools, focusing on clean architecture, performance, and user-friendly design.
 
 ## Skills
