@@ -1,10 +1,6 @@
-# readme-lilamcguirk
+Hello, I'm Lila Mcguirk
 
-Hello, My name is Lila Mcguirk!
-
-## About Me
-I am currently a senior at The University of Vermont. I am pursuing a Bachelor of Science in Computer Science. 
-Passionate in both front-end and back-end development, I enjoy creating user-focused web applications and exploring the intersection of technology and design.
+I’m a University of Vermont Computer Science graduate with a strong front-end programming background. I specialize in building scalable, responsive web applications with modern frameworks and tools, focusing on clean architecture, performance, and user-friendly design.
 
 ## Skills
 Languages: Python, Java, JavaScript, C++
